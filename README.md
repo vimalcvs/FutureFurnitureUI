@@ -5,11 +5,11 @@ Check out the new style for App Design aims for Furniture E-commerce...😉😀�
 
 **Please click the image below to enlarge.**
 
-<img src="Screenshots/Screenshot_20181220-033943.png" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot_20181220-033957.png" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot_20190620_115411_com.vimalinc.furnitureecommerceappui.jpg" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot_20190620_115416_com.vimalinc.furnitureecommerceappui.jpg" height="600" width="300" hspace="40">
 
-<img src="Screenshots/Screenshot_20181220-034024.png" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot_20181220-034038.png" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot_20190620_115420_com.vimalinc.furnitureecommerceappui.jpg" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot_20190620_115428_com.vimalinc.furnitureecommerceappui.jpg" height="600" width="300" hspace="40">
 
-<img src="Screenshots/Screenshot_20181220-034140.png" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot_20181220-034144.png" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot_20190620_115929_com.vimalinc.furnitureecommerceappui.jpg" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot_20190620_115959_com.vimalinc.furnitureecommerceappui.jpg" height="600" width="300" hspace="40">
 
 ## Contributing
 
